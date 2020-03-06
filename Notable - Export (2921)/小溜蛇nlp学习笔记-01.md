@@ -1,0 +1,24 @@
+---
+attachments: [Clipboard_2020-03-07-01-07-05.png]
+title: 小溜蛇nlp学习笔记-01
+created: '2020-03-04T14:41:53.191Z'
+modified: '2020-03-06T14:10:54.845Z'
+---
+
+# 小溜蛇nlp学习笔记-01
+<style>
+img{
+    width: 60%;
+    padding-left: 20%;
+}
+</style>
+## 1. Word vectors
+### definition
+- <font color=#0099ff size=3> word vectors </font> are sometimes called <font color=#0099ff size=3> word embeddings/word representations </font>. They are a <font color=red size=3> distributed </font> representation.
+### ideas:
+- go through each position t in the text, which has a center word c and context ('outside') words o
+- use the <font color=#0099ff size=3> similarity of the word vectors </font> for c and o to <font color=#0099ff size=3> calculate the probability </font> of o given c.
+
+**用outside word预测center word/用center word 预测 outside word**
+
+![](@attachment/Clipboard_2020-03-07-01-07-05.png)
