@@ -8,4 +8,4 @@
 
 **用outside word预测center word/用center word 预测 outside word**
 
-![](Notable - Export (2921)/attachments/Clipboard_2020-03-07-01-07-05.png)
+![](https://raw.githubusercontent.com/7stitch7/nlp-cs224n-learning-notes/master/Notable%20-%20Export%20(2921)/attachments/Clipboard_2020-03-07-01-07-05.png)
