@@ -1,11 +1,4 @@
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-
 # 小溜蛇nlp学习笔记-01
-</style>
 ## 1. Word vectors
 ### definition
 - <font color=#0099ff size=3> word vectors </font> are sometimes called <font color=#0099ff size=3> word embeddings/word representations </font>. They are a <font color=red size=3> distributed </font> representation.
