@@ -1,16 +1,10 @@
----
-attachments: [Clipboard_2020-03-07-01-07-05.png]
-title: 小溜蛇nlp学习笔记-01
-created: '2020-03-04T14:41:53.191Z'
-modified: '2020-03-06T14:10:54.845Z'
----
-
-# 小溜蛇nlp学习笔记-01
 <style>
 img{
     width: 60%;
     padding-left: 20%;
 }
+
+# 小溜蛇nlp学习笔记-01
 </style>
 ## 1. Word vectors
 ### definition
@@ -21,4 +15,4 @@ img{
 
 **用outside word预测center word/用center word 预测 outside word**
 
-![](@attachment/Clipboard_2020-03-07-01-07-05.png)
+![](Notable - Export (2921)/attachments/Clipboard_2020-03-07-01-07-05.png)
